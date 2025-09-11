@@ -1,0 +1,11 @@
+.last_update_check
+proxy_config.conf
+
+*.bak
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+.DS_Store
